@@ -1,0 +1,54 @@
+# key = os.urandom(16)
+# data = hex_to_bytes('71776572747975696f706173646667686a6b6c7a786376626e6d2c2e2f617173776572646663787a')
+# first_omac = Omac()
+# first_omac._set_key(key)
+# print(first_omac.compute_mac(data))
+
+# key = os.urandom(16)
+# data = hex_to_bytes('71776572747975696f706173646667686a6b6c7a786376626e6d2c2e2f617173776572646663787a')
+# first_trunc = Trunc_mac()
+# first_trunc._set_key(key)
+# print(first_trunc.compute_mac(data))
+
+# key = os.urandom(16)
+# data = hex_to_bytes('71776572747975696f706173646667686a6b6c7a786376626e6d2c2e2f617173776572646663787a')
+# first_hmac = Hmac()
+# first_hmac._set_key(key)
+# print(first_hmac.compute_mac(data).hexdigest())
+
+# key = os.urandom(16)
+
+# tic = time()
+# for i in range(1000):
+#     first_omac = Omac()
+#     first_omac._set_key(key)
+#     first_omac.compute_mac(message_1)
+# toc = time()
+# time_1.append(toc - tic)
+#
+# tic = time()
+# for i in range(1000):
+#     first_omac = Omac()
+#     first_omac._set_key(key)
+#     first_omac.compute_mac(message_2)
+# toc = time()
+# time_1.append(toc - tic)
+#
+# tic = time()
+# for i in range(1000):
+#     first_omac = Omac()
+#     first_omac._set_key(key)
+#     first_omac.compute_mac(message_3)
+# toc = time()
+# time_1.append(toc - tic)
+#
+# tic = time()
+# for i in range(1000):
+#     first_omac = Omac()
+#     first_omac._set_key(key)
+#     first_omac.compute_mac(message_4)
+# toc = time()
+# time_1.append(toc - tic)
+#
+# print(time_1)
+

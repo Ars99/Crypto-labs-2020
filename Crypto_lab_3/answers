@@ -1,0 +1,14 @@
+1) 'Basic CBC mode encryption needs padding.\x08\x08\x08\x08\x08\x08\x08\x08'
+2) 'Our implementation uses rand. IV\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10'
+3)CTR mode lets you build a stream cipher from a block cipher.
+4)Always avoid the two time pad!
+
+
+
+
+Результаты работы последнего задания:
+bytearray(b'this text has two and half blocks. nice!\x08\x08\x08\x08\x08\x08\x08\x08')
+bytearray(b'this text has two and half blocks. nice!')
+bytearray(b'this text has two and half blocks. nice!')
+bytearray(b'this text has two and half blocks. nice!\x08\x08\x08\x08\x08\x08\x08\x08')
+bytearray(b'this text has two and half blocks. nice!')

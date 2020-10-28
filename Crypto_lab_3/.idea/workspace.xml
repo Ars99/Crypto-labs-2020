@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecdefaf6-4fc3-4db7-b943-456a98a51c65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aHCLqjrDmvMr0k2SGg9eRtdn49" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Crypto_lab_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecdefaf6-4fc3-4db7-b943-456a98a51c65" name="Default Changelist" comment="" />
+      <created>1586383078556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586383078556</updated>
+      <workItem from="1586383086870" duration="91992000" />
+      <workItem from="1587481936901" duration="930000" />
+      <workItem from="1587636630089" duration="3077000" />
+      <workItem from="1587640610818" duration="9068000" />
+      <workItem from="1587756821581" duration="7219000" />
+      <workItem from="1588090595331" duration="15004000" />
+      <workItem from="1589136099470" duration="201000" />
+      <workItem from="1589314117768" duration="6736000" />
+      <workItem from="1589365210676" duration="12076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586719592946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586719592946" />
+    <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1589317225646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="157" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589317225646" />
+    <state x="2605" y="198" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588182266707" />
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1589467293609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589467293609" />
+    <state width="1493" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586733503573" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1589467293609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589467293609" />
+    <state width="1493" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586733503573" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1589467293609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589467293609" />
+    <state width="1493" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586733503573" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1589467293609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589467293609" />
+    <state width="1493" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586733503573" />
+    <state width="1493" height="148" key="GridCell.Tab.1.bottom" timestamp="1586733503573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586720581767" />
+    <state width="1493" height="148" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586733503573" />
+    <state width="1493" height="148" key="GridCell.Tab.1.center" timestamp="1586733503573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586720581767" />
+    <state width="1493" height="148" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586733503573" />
+    <state width="1493" height="148" key="GridCell.Tab.1.left" timestamp="1586733503573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586720581767" />
+    <state width="1493" height="148" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586733503573" />
+    <state width="1493" height="148" key="GridCell.Tab.1.right" timestamp="1586733503573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586720581767" />
+    <state width="1493" height="148" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586733503573" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Crypto_lab_3$main.coverage" NAME="main Coverage Results" MODIFIED="1589391688371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
